@@ -9,7 +9,6 @@ Ejercicio 3 : Supón que un ramo tiene las siguientes evaluaciones:
               * 3 tareas en Laboratorio, estas valen un 15% del curso, 
               * 3 tareas en clase, que valen un 15% del curso, y
               * 2 notas de solemnes, cada una un 35%.
-              
               Elabora un programa que, ingresando todas las notas, entregue la nota final del ramo.
               
 Ejercicio 4 : Con lo aprendido hasta el momento, realiza un programa que de manera totalmente matemática 
