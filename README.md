@@ -1,7 +1,7 @@
 Programacion Básica (Python) Módulo 1
 -------------------------------------
 
-Ejercicio 1 : Confecciona un programa que reciba del usuario la temperatura en grados Celsius, y la traspase a grados Fahrenheit.
+<b>Ejercicio 1 :</b> Confecciona un programa que reciba del usuario la temperatura en grados Celsius, y la traspase a grados Fahrenheit.
 
 Ejercicio 2 :  Realiza un programa que reciba tres números por teclado y calcule su promedio.
 
