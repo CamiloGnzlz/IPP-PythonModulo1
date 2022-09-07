@@ -16,5 +16,6 @@ Programacion Básica (Python) Módulo 1
               El Rut ingresado debe ser un input que sea de largo 8 (sobre 10 millones) y una vez ingresado este 
               número el programa deberá retornar un número del 1 al 11 (siendo simbólicamente el 10 la letra K 
               y el 11 el número 0, pero esto no es importante que se muestren así).
+              (UPDATE) : Hay que actualizar código con algunos ruts entrega numero verificador erroneo.
 
 <b>NOTA : En esta evaluacion solo se evalúa el resultado final del programa, no el metodo ni la eficiencia y rendimiento del código para llegar a este.</b>
